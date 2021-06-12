@@ -1,0 +1,6 @@
+﻿  SceneManager.cpp
+C:\Users\Igor\Documents\GitHub\bonus-main\bonus-main\Framework-PG\Framework-PG\SceneManager.cpp(124,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Source.cpp
+  Sprite.cpp
+  Gerando Código...
+  Framework-PG.vcxproj -> C:\Users\Igor\Documents\GitHub\bonus-main\bonus-main\Framework-PG\Debug\Framework-PG.exe
